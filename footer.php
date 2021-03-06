@@ -4,6 +4,6 @@
         include "nav_inter.html"
     ?>sdadaad
 
-    Goran
+    Goran neki treci
     
 </footer>
