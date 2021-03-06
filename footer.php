@@ -4,6 +4,6 @@
         include "nav_inter.html"
     ?>
 	
-	Konacno
+	Konacno uputstvo
     
 </footer>
